@@ -137,6 +137,22 @@ border-radius:50%;
 
 
 
+
+img.wp-post-image {}
+img.attachment-thumbnail {
+    float:left;
+    margin: 4px 20px 0 0;
+}
+img.attachment-medium {}
+img.attachment-large {}
+img.attachment-full {}
+
+sidebar {
+    width: 300px;
+    float: right;
+}
+
+
 /*+++++++++++FORM+++++++++++*/
 
 form {
